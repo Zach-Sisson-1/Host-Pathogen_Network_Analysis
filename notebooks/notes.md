@@ -257,3 +257,21 @@ I realized while I was working that the string database file *9606.protein.links
 
 So what i did was make a dictionary with the protein_ids as the keys and the gene names as the values. This dict was then used to created columns in the string database file *9606.protein.links.full.v11.5.txt.gz* `gene1` and `gene2` this way I can combine files on just the gene names if they only have them in their files. 
 
+
+**Ensembl Data**: http://ftp.ensembl.org/pub/release-104/fasta/homo_sapiens/pep/
+
+File: *Homo_sapiens.GRCh38.pep.all.fa.gz*
+
+```
+>ENSP00000488240.1 pep chromosome:GRCh38:CHR_HSCHR7_2_CTG6:142847306:142847317:1 gene:ENSG00000282253.1 transcript:ENST00000631435.1 gene_biotype:TR_D_gene transcript_biotype:TR_D_gene gene_symbol:TRBD1 description:T cell receptor beta diversity 1 [Source:HGNC Symbol;Acc:HGNC:12158]
+GTGG
+>ENSP00000451042.1 pep chromosome:GRCh38:14:22438547:22438554:1 gene:ENSG00000223997.1 transcript:ENST00000415118.1 gene_biotype:TR_D_gene transcript_biotype:TR_D_gene gene_symbol:TRDD1 description:T cell receptor delta diversity 1 [Source:HGNC Symbol;Acc:HGNC:12254]
+EI
+>ENSP00000452494.1 pep chromosome:GRCh38:14:22449113:22449125:1 gene:ENSG00000228985.1 transcript:ENST00000448914.1 gene_biotype:TR_D_gene transcript_biotype:TR_D_gene gene_symbol:TRDD3 description:T cell receptor delta diversity 3 [Source:HGNC Symbol;Acc:HGNC:12256]
+TGGY
+>ENSP00000451515.1 pep chromosome:GRCh38:14:22439007:22439015:1 gene:ENSG00000237235.2 transcript:ENST00000434970.2 gene_biotype:TR_D_gene transcript_biotype:TR_D_gene gene_symbol:TRDD2 description:T cell receptor delta diversity 2 [Source:HGNC Symbol;Acc:HGNC:12255]
+PSY
+>ENSP00000487941.1 pep chromosome:GRCh38:7:142786213:142786224:1 gene:ENSG00000282431.1 transcript:ENST00000632684.1 gene_biotype:TR_D_gene transcript_biotype:TR_D_gene gene_symbol:TRBD1 description:T cell receptor beta diversity 1 [Source:HGNC Symbol;Acc:HGNC:12158]
+GTGG
+```
+
