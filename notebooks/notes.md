@@ -128,7 +128,7 @@ gzcat uniprot-homo+sapiens.fasta.gz | grep "^>" | cut -d "|" -f3 | cut -d " " -f
 ```
 
 
-## 10/9/21
+## 10/10/21
 
 ### Jupyter Notebook
 
@@ -326,3 +326,129 @@ Installed kernelspec network_uo in ~/Library/Jupyter/kernels/network_uo
 ```
 
 Uploaded the final version to github and asked Dr. Hosseinzadeh to look over the file.
+
+
+
+Downloaded networkx 
+```
+conda install networkx
+Collecting package metadata (current_repodata.json): done
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: /Users/andrewpowers/miniconda3/envs/network_uo
+
+  added / updated specs:
+    - networkx
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    networkx-2.6.3             |     pyhd3eb1b0_0         1.3 MB
+    ------------------------------------------------------------
+                                           Total:         1.3 MB
+
+The following NEW packages will be INSTALLED:
+
+  networkx           pkgs/main/noarch::networkx-2.6.3-pyhd3eb1b0_0
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+networkx-2.6.3       | 1.3 MB    | ################################################################################################################################################################### | 100% 
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+```
+
+installed matplotlib
+
+```
+conda install matplotlib
+Collecting package metadata (current_repodata.json): done
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: /Users/andrewpowers/miniconda3/envs/network_uo
+
+  added / updated specs:
+    - matplotlib
+
+
+The following NEW packages will be INSTALLED:
+
+  brotli             pkgs/main/osx-64::brotli-1.0.9-hb1e8313_2
+  cycler             pkgs/main/osx-64::cycler-0.10.0-py39hecd8cb5_0
+  fonttools          pkgs/main/noarch::fonttools-4.25.0-pyhd3eb1b0_0
+  freetype           pkgs/main/osx-64::freetype-2.10.4-ha233b18_0
+  kiwisolver         pkgs/main/osx-64::kiwisolver-1.3.1-py39h23ab428_0
+  lcms2              pkgs/main/osx-64::lcms2-2.12-hf1fd2bf_0
+  libtiff            pkgs/main/osx-64::libtiff-4.2.0-h87d7836_0
+  libwebp-base       pkgs/main/osx-64::libwebp-base-1.2.0-h9ed2024_0
+  lz4-c              pkgs/main/osx-64::lz4-c-1.9.3-h23ab428_1
+  matplotlib         pkgs/main/osx-64::matplotlib-3.4.2-py39hecd8cb5_0
+  matplotlib-base    pkgs/main/osx-64::matplotlib-base-3.4.2-py39h8b3ea08_0
+  munkres            pkgs/main/noarch::munkres-1.1.4-py_0
+  olefile            pkgs/main/noarch::olefile-0.46-pyhd3eb1b0_0
+  openjpeg           pkgs/main/osx-64::openjpeg-2.4.0-h66ea3da_0
+  pillow             pkgs/main/osx-64::pillow-8.3.1-py39ha4cf6ea_0
+  zstd               pkgs/main/osx-64::zstd-1.4.9-h322a384_0
+
+
+Proceed ([y]/n)? y
+
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+```
+
+
+Installed scipy, because the nx.spring_layout()
+gave an error:
+ModuleNotFoundError: No module named 'scipy'
+
+
+```
+conda install scipy
+Collecting package metadata (current_repodata.json): done
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: /Users/andrewpowers/miniconda3/envs/network_uo
+
+  added / updated specs:
+    - scipy
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    scipy-1.7.1                |   py39h88652d9_2        15.6 MB
+    ------------------------------------------------------------
+                                           Total:        15.6 MB
+
+The following NEW packages will be INSTALLED:
+
+  libgfortran        pkgs/main/osx-64::libgfortran-3.0.1-h93005f0_2
+  scipy              pkgs/main/osx-64::scipy-1.7.1-py39h88652d9_2
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+scipy-1.7.1          | 15.6 MB   | ################################################################################################################################################################### | 100% 
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+```
+
+Yayy!!! I figured out how to make the edge list and also how to make the network graphs!
