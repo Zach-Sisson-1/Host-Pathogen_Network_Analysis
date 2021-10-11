@@ -275,3 +275,54 @@ PSY
 GTGG
 ```
 
+I used this to combine majority of the other dataframes with the string dataframe. 
+
+However, after talking with V. It seems that we don'ot actually need to use STRING as the APID data has UniprotIDs.
+So I will create another Jupyter notebook called *database_merging.ipynb*. 
+
+I will write out in a Markdown fashion how to combine the 3 dataframes together. 
+
+I also uploaded the `network_uo` conda environment to my kernel.
+```
+# Download the ipykernel package
+conda install ipykernel
+Collecting package metadata (current_repodata.json): done
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: /Users/andrewpowers/miniconda3/envs/network_uo
+
+  added / updated specs:
+    - ipykernel
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    ipykernel-6.4.1            |   py39hecd8cb5_1         194 KB
+    ------------------------------------------------------------
+                                           Total:         194 KB
+
+The following packages will be UPDATED:
+
+  ipykernel          conda-forge::ipykernel-6.4.1-py39h71a~ --> pkgs/main::ipykernel-6.4.1-py39hecd8cb5_1
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+ipykernel-6.4.1      | 194 KB    | ################################################################################################################################################################### | 100% 
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+
+
+# Upload to the kernel
+python -m ipykernel install --user --name=network_uo
+Installed kernelspec network_uo in ~/Library/Jupyter/kernels/network_uo
+```
+
+Uploaded the final version to github and asked Dr. Hosseinzadeh to look over the file.
