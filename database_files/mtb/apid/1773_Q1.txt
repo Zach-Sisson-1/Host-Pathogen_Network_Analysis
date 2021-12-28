@@ -1,2 +1,0 @@
-InteractionID	UniprotID_A	UniprotName_A	GeneName_A	UniprotID_B	UniprotName_B	GeneName_B	ExpEvidences	Methods	Publications	3DStructures	CurationEvents
-1741163	A0A045IZR3	A0A045IZR3_MYCTX	mutA	A0A0E8UW09	A0A0E8UW09_MYCTX	scpA	2	2	1	0	2
