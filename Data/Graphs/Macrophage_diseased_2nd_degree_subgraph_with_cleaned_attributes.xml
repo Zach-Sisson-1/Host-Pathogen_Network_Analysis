@@ -1,0 +1,1191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d9" for="node" attr.name="Pathway" attr.type="string" />
+  <key id="d8" for="node" attr.name="Topological_domain" attr.type="string" />
+  <key id="d7" for="node" attr.name="Subcellular_location_[CC]" attr.type="string" />
+  <key id="d6" for="node" attr.name="Intramembrane" attr.type="string" />
+  <key id="d5" for="node" attr.name="Gene_ontology_(cellular_component)" attr.type="string" />
+  <key id="d4" for="node" attr.name="Gene_ontology_(molecular_function)" attr.type="string" />
+  <key id="d3" for="node" attr.name="Gene_ontology_(biological_process)" attr.type="string" />
+  <key id="d2" for="node" attr.name="GeneName" attr.type="string" />
+  <key id="d1" for="node" attr.name="UniprotName" attr.type="string" />
+  <key id="d0" for="graph" attr.name="name" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="O43586">
+      <data key="d1">PPIP1_HUMAN</data>
+      <data key="d2">PSTPIP1</data>
+      <data key="d3">actin filament polymerization</data>
+      <data key="d4">actin filament binding</data>
+      <data key="d5">actin filament</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q15287">
+      <data key="d1">RNPS1_HUMAN</data>
+      <data key="d2">RNPS1</data>
+      <data key="d3">mRNA 3'-end processing</data>
+      <data key="d4">mRNA 3'-UTR binding</data>
+      <data key="d5">ASAP complex</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q14005">
+      <data key="d1">IL16_HUMAN</data>
+      <data key="d2">IL16</data>
+      <data key="d3">cytokine-mediated signaling pathway</data>
+      <data key="d4">CD4 receptor binding</data>
+      <data key="d5">cytosol</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Secreted</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P16403">
+      <data key="d1">H12_HUMAN</data>
+      <data key="d2">HIST1H1C</data>
+      <data key="d3">chromosome condensation</data>
+      <data key="d4">chromatin DNA binding</data>
+      <data key="d5">euchromatin</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9NP66">
+      <data key="d1">HM20A_HUMAN</data>
+      <data key="d2">HMG20A</data>
+      <data key="d3">chromatin organization</data>
+      <data key="d4">DNA binding</data>
+      <data key="d5">nucleus</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="O95466">
+      <data key="d1">FMNL1_HUMAN</data>
+      <data key="d2">FMNL1</data>
+      <data key="d3">actin filament severing</data>
+      <data key="d4">actin filament binding</data>
+      <data key="d5">bleb</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q96LT7">
+      <data key="d1">CI072_HUMAN</data>
+      <data key="d2">C9orf72</data>
+      <data key="d3">autophagy</data>
+      <data key="d4">guanyl-nucleotide exchange factor activity</data>
+      <data key="d5">autophagosome</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q02930">
+      <data key="d1">CREB5_HUMAN</data>
+      <data key="d2">CREB5</data>
+      <data key="d3">positive regulation of transcription, DNA-templated</data>
+      <data key="d4">cAMP response element binding</data>
+      <data key="d5">chromatin</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q99750">
+      <data key="d1">MDFI_HUMAN</data>
+      <data key="d2">MDFI</data>
+      <data key="d3">cytoplasmic sequestering of transcription factor</data>
+      <data key="d4">identical protein binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P49639">
+      <data key="d1">HXA1_HUMAN</data>
+      <data key="d2">HOXA1</data>
+      <data key="d3">abducens nerve formation</data>
+      <data key="d4">DNA-binding transcription activator activity, RNA polymerase II-specific</data>
+      <data key="d5">chromatin</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q15654">
+      <data key="d1">TRIP6_HUMAN</data>
+      <data key="d2">TRIP6</data>
+      <data key="d3">chordate embryonic development</data>
+      <data key="d4">interleukin-1 receptor binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q93062">
+      <data key="d1">RBPMS_HUMAN</data>
+      <data key="d2">RBPMS</data>
+      <data key="d3">positive regulation of pathway-restricted SMAD protein phosphorylation</data>
+      <data key="d4">mRNA binding</data>
+      <data key="d5">cytoplasmic stress granule</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q8NEC5">
+      <data key="d1">CTSR1_HUMAN</data>
+      <data key="d2">CATSPER1</data>
+      <data key="d3">calcium ion transport</data>
+      <data key="d4">calcium activated cation channel activity</data>
+      <data key="d5">CatSper complex</data>
+      <data key="d6">INTRAMEM 616..636</data>
+      <data key="d7">Cell projection</data>
+      <data key="d8">TOPO_DOM 1..445</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q7L591">
+      <data key="d1">DOK3_HUMAN</data>
+      <data key="d2">DOK3</data>
+      <data key="d3">neutrophil degranulation</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">ficolin-1-rich granule membrane</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P08631">
+      <data key="d1">HCK_HUMAN</data>
+      <data key="d2">HCK</data>
+      <data key="d3">cell adhesion</data>
+      <data key="d4">ATP binding</data>
+      <data key="d5">caveola</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Lysosome</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P04440">
+      <data key="d1">DPB1_HUMAN</data>
+      <data key="d2">HLA-DPB1</data>
+      <data key="d3">adaptive immune response</data>
+      <data key="d4">peptide antigen binding</data>
+      <data key="d5">cell surface</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cell membrane</data>
+      <data key="d8">TOPO_DOM 30..225</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P22681">
+      <data key="d1">CBL_HUMAN</data>
+      <data key="d2">CBL</data>
+      <data key="d3">cell surface receptor signaling pathway</data>
+      <data key="d4">cadherin binding</data>
+      <data key="d5">cilium</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">PATHWAY</data>
+    </node>
+    <node id="P59046">
+      <data key="d1">NAL12_HUMAN</data>
+      <data key="d2">NLRP12</data>
+      <data key="d3">activation of cysteine-type endopeptidase activity involved in apoptotic process</data>
+      <data key="d4">ATP binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="O76024">
+      <data key="d1">WFS1_HUMAN</data>
+      <data key="d2">WFS1</data>
+      <data key="d3">calcium ion homeostasis</data>
+      <data key="d4">ATPase binding</data>
+      <data key="d5">dendrite</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Endoplasmic reticulum membrane</data>
+      <data key="d8">TOPO_DOM 653..869</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P43405">
+      <data key="d1">KSYK_HUMAN</data>
+      <data key="d2">SYK</data>
+      <data key="d3">activation of JUN kinase activity</data>
+      <data key="d4">ATP binding</data>
+      <data key="d5">B cell receptor complex</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cell membrane</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q06187">
+      <data key="d1">BTK_HUMAN</data>
+      <data key="d2">BTK</data>
+      <data key="d3">adaptive immune response</data>
+      <data key="d4">ATP binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P07333">
+      <data key="d1">CSF1R_HUMAN</data>
+      <data key="d2">CSF1R</data>
+      <data key="d3">axon guidance</data>
+      <data key="d4">ATP binding</data>
+      <data key="d5">cell surface</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cell membrane</data>
+      <data key="d8">TOPO_DOM 20..517</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P07948">
+      <data key="d1">LYN_HUMAN</data>
+      <data key="d2">LYN</data>
+      <data key="d3">adaptive immune response</data>
+      <data key="d4">ATP binding</data>
+      <data key="d5">adherens junction</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cell membrane</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P15498">
+      <data key="d1">VAV_HUMAN</data>
+      <data key="d2">VAV1</data>
+      <data key="d3">cytokine-mediated signaling pathway</data>
+      <data key="d4">guanyl-nucleotide exchange factor activity</data>
+      <data key="d5">cell-cell junction</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Unknown</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q16543">
+      <data key="d1">CDC37_HUMAN</data>
+      <data key="d2">CDC37</data>
+      <data key="d3">ERBB2 signaling pathway</data>
+      <data key="d4">chaperone binding</data>
+      <data key="d5">chaperone complex</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q14847">
+      <data key="d1">LASP1_HUMAN</data>
+      <data key="d2">LASP1</data>
+      <data key="d3">ion transport</data>
+      <data key="d4">actin filament binding</data>
+      <data key="d5">cortical actin cytoskeleton</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q63HR2">
+      <data key="d1">TNS2_HUMAN</data>
+      <data key="d2">TNS2</data>
+      <data key="d3">cellular homeostasis</data>
+      <data key="d4">identical protein binding</data>
+      <data key="d5">focal adhesion</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cell junction</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9H257">
+      <data key="d1">CARD9_HUMAN</data>
+      <data key="d2">CARD9</data>
+      <data key="d3">defense response to Gram-positive bacterium</data>
+      <data key="d4">CARD domain binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9BYV2">
+      <data key="d1">TRI54_HUMAN</data>
+      <data key="d2">TRIM54</data>
+      <data key="d3">cell differentiation</data>
+      <data key="d4">microtubule binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q96QH2">
+      <data key="d1">PRAM_HUMAN</data>
+      <data key="d2">PRAM1</data>
+      <data key="d3">integrin-mediated signaling pathway</data>
+      <data key="d4">lipid binding</data>
+      <data key="d5">plasma membrane</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Unknown</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9UIA0">
+      <data key="d1">CYH4_HUMAN</data>
+      <data key="d2">CYTH4</data>
+      <data key="d3">regulation of ARF protein signal transduction</data>
+      <data key="d4">guanyl-nucleotide exchange factor activity</data>
+      <data key="d5">centriolar satellite</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cell membrane</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P40763">
+      <data key="d1">STAT3_HUMAN</data>
+      <data key="d2">STAT3</data>
+      <data key="d3">astrocyte differentiation</data>
+      <data key="d4">chromatin DNA binding</data>
+      <data key="d5">chromatin</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9Y616">
+      <data key="d1">IRAK3_HUMAN</data>
+      <data key="d2">IRAK3</data>
+      <data key="d3">cytokine-mediated signaling pathway</data>
+      <data key="d4">ATP binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="O60496">
+      <data key="d1">DOK2_HUMAN</data>
+      <data key="d2">DOK2</data>
+      <data key="d3">axon guidance</data>
+      <data key="d4">transmembrane receptor protein tyrosine kinase adaptor activity</data>
+      <data key="d5">cytosol</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Unknown</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P12956">
+      <data key="d1">XRCC6_HUMAN</data>
+      <data key="d2">XRCC6</data>
+      <data key="d3">activation of innate immune response</data>
+      <data key="d4">5'-deoxyribose-5-phosphate lyase activity</data>
+      <data key="d5">chromosome, telomeric region</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P41220">
+      <data key="d1">RGS2_HUMAN</data>
+      <data key="d2">RGS2</data>
+      <data key="d3">brain development</data>
+      <data key="d4">beta-tubulin binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cell membrane</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q8TB24">
+      <data key="d1">RIN3_HUMAN</data>
+      <data key="d2">RIN3</data>
+      <data key="d3">endocytosis</data>
+      <data key="d4">GTPase activator activity</data>
+      <data key="d5">axon</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P51828">
+      <data key="d1">ADCY7_HUMAN</data>
+      <data key="d2">ADCY7</data>
+      <data key="d3">activation of adenylate cyclase activity</data>
+      <data key="d4">adenylate cyclase activity</data>
+      <data key="d5">integral component of membrane</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Membrane</data>
+      <data key="d8">TOPO_DOM 1..33</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q15080">
+      <data key="d1">NCF4_HUMAN</data>
+      <data key="d2">NCF4</data>
+      <data key="d3">antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent</data>
+      <data key="d4">molecular adaptor activity</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P09086">
+      <data key="d1">PO2F2_HUMAN</data>
+      <data key="d2">POU2F2</data>
+      <data key="d3">cellular response to virus</data>
+      <data key="d4">DNA-binding transcription factor activity</data>
+      <data key="d5">chromatin</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P20339">
+      <data key="d1">RAB5A_HUMAN</data>
+      <data key="d2">RAB5A</data>
+      <data key="d3">amyloid-beta clearance by transcytosis</data>
+      <data key="d4">GDP binding</data>
+      <data key="d5">actin cytoskeleton</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cell membrane</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P46108">
+      <data key="d1">CRK_HUMAN</data>
+      <data key="d2">CRK</data>
+      <data key="d3">actin cytoskeleton organization</data>
+      <data key="d4">cytoskeletal protein binding</data>
+      <data key="d5">actin cytoskeleton</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P10412">
+      <data key="d1">H14_HUMAN</data>
+      <data key="d2">HIST1H1E</data>
+      <data key="d3">chromosome condensation</data>
+      <data key="d4">ADP binding</data>
+      <data key="d5">heterochromatin</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="O75400">
+      <data key="d1">PR40A_HUMAN</data>
+      <data key="d2">PRPF40A</data>
+      <data key="d3">cell cycle</data>
+      <data key="d4">RNA binding</data>
+      <data key="d5">membrane</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus speckle</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q03463">
+      <data key="d1">POLG_HCVJ1</data>
+      <data key="d2">Unknown</data>
+      <data key="d3">clathrin-dependent endocytosis of virus by host cell</data>
+      <data key="d4">ATP binding</data>
+      <data key="d5">host cell cytoplasm</data>
+      <data key="d6">INTRAMEM 1973..2002</data>
+      <data key="d7">Host endoplasmic reticulum membrane</data>
+      <data key="d8">TOPO_DOM 2..168</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q15154">
+      <data key="d1">PCM1_HUMAN</data>
+      <data key="d2">PCM1</data>
+      <data key="d3">centrosome cycle</data>
+      <data key="d4">identical protein binding</data>
+      <data key="d5">apical part of cell</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="O43741">
+      <data key="d1">AAKB2_HUMAN</data>
+      <data key="d2">PRKAB2</data>
+      <data key="d3">carnitine shuttle</data>
+      <data key="d4">identical protein binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Unknown</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q13077">
+      <data key="d1">TRAF1_HUMAN</data>
+      <data key="d2">TRAF1</data>
+      <data key="d3">apoptotic process</data>
+      <data key="d4">identical protein binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Unknown</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q92529">
+      <data key="d1">SHC3_HUMAN</data>
+      <data key="d2">SHC3</data>
+      <data key="d3">axon guidance</data>
+      <data key="d4">phosphotyrosine residue binding</data>
+      <data key="d5">cytosol</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Unknown</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9NQ94">
+      <data key="d1">A1CF_HUMAN</data>
+      <data key="d2">A1CF</data>
+      <data key="d3">cytidine to uridine editing</data>
+      <data key="d4">mRNA binding</data>
+      <data key="d5">apolipoprotein B mRNA editing enzyme complex</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="O43447">
+      <data key="d1">PPIH_HUMAN</data>
+      <data key="d2">PPIH</data>
+      <data key="d3">mRNA splicing, via spliceosome</data>
+      <data key="d4">cyclosporin A binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus speckle</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="O60333">
+      <data key="d1">KIF1B_HUMAN</data>
+      <data key="d2">KIF1B</data>
+      <data key="d3">anterograde axonal transport</data>
+      <data key="d4">ATPase activity</data>
+      <data key="d5">axon</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="O75603">
+      <data key="d1">GCM2_HUMAN</data>
+      <data key="d2">GCM2</data>
+      <data key="d3">cellular calcium ion homeostasis</data>
+      <data key="d4">DNA binding</data>
+      <data key="d5">chromatin</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P04792">
+      <data key="d1">HSPB1_HUMAN</data>
+      <data key="d2">HSPB1</data>
+      <data key="d3">anterograde axonal protein transport</data>
+      <data key="d4">identical protein binding</data>
+      <data key="d5">axon cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P10606">
+      <data key="d1">COX5B_HUMAN</data>
+      <data key="d2">COX5B</data>
+      <data key="d3">mitochondrial electron transport, cytochrome c to oxygen</data>
+      <data key="d4">cytochrome-c oxidase activity</data>
+      <data key="d5">mitochondrial inner membrane</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Mitochondrion inner membrane</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">PATHWAY</data>
+    </node>
+    <node id="Q5VZ18">
+      <data key="d1">SHE_HUMAN</data>
+      <data key="d2">SHE</data>
+      <data key="d3">Unknown</data>
+      <data key="d4">phosphotyrosine residue binding</data>
+      <data key="d5">Unknown</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Unknown</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q86UW9">
+      <data key="d1">DTX2_HUMAN</data>
+      <data key="d2">DTX2</data>
+      <data key="d3">Notch signaling pathway</data>
+      <data key="d4">ubiquitin protein ligase activity</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">PATHWAY</data>
+    </node>
+    <node id="Q8NEU8">
+      <data key="d1">DP13B_HUMAN</data>
+      <data key="d2">APPL2</data>
+      <data key="d3">adiponectin-activated signaling pathway</data>
+      <data key="d4">identical protein binding</data>
+      <data key="d5">cytoplasmic vesicle</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Early endosome membrane</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q8TEW6">
+      <data key="d1">DOK4_HUMAN</data>
+      <data key="d2">DOK4</data>
+      <data key="d3">axon guidance</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">cytosol</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Unknown</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q92625">
+      <data key="d1">ANS1A_HUMAN</data>
+      <data key="d2">ANKS1A</data>
+      <data key="d3">ephrin receptor signaling pathway</data>
+      <data key="d4">ephrin receptor binding</data>
+      <data key="d5">cytosol</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q99704">
+      <data key="d1">DOK1_HUMAN</data>
+      <data key="d2">DOK1</data>
+      <data key="d3">axon guidance</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">cytosol</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q99932">
+      <data key="d1">SPAG8_HUMAN</data>
+      <data key="d2">SPAG8</data>
+      <data key="d3">cell cycle</data>
+      <data key="d4">microtubule binding</data>
+      <data key="d5">acrosomal vesicle</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9HB20">
+      <data key="d1">PKHA3_HUMAN</data>
+      <data key="d2">PLEKHA3</data>
+      <data key="d3">ceramide transport</data>
+      <data key="d4">ceramide 1-phosphate binding</data>
+      <data key="d5">cytosol</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Golgi apparatus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9P104">
+      <data key="d1">DOK5_HUMAN</data>
+      <data key="d2">DOK5</data>
+      <data key="d3">axon guidance</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">cytosol</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Unknown</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9UKG1">
+      <data key="d1">DP13A_HUMAN</data>
+      <data key="d2">APPL1</data>
+      <data key="d3">adiponectin-activated signaling pathway</data>
+      <data key="d4">beta-tubulin binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Early endosome membrane</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9Y3C5">
+      <data key="d1">RNF11_HUMAN</data>
+      <data key="d2">RNF11</data>
+      <data key="d3">protein autoubiquitination</data>
+      <data key="d4">DNA binding</data>
+      <data key="d5">early endosome</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Early endosome</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P07949">
+      <data key="d1">RET_HUMAN</data>
+      <data key="d2">RET</data>
+      <data key="d3">activation of cysteine-type endopeptidase activity involved in apoptotic process</data>
+      <data key="d4">ATP binding</data>
+      <data key="d5">axon</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cell membrane</data>
+      <data key="d8">TOPO_DOM 29..635</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q15233">
+      <data key="d1">NONO_HUMAN</data>
+      <data key="d2">NONO</data>
+      <data key="d3">activation of innate immune response</data>
+      <data key="d4">chromatin binding</data>
+      <data key="d5">fibrillar center</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q7Z5R6">
+      <data key="d1">AB1IP_HUMAN</data>
+      <data key="d2">APBB1IP</data>
+      <data key="d3">positive regulation of cell adhesion</data>
+      <data key="d4">Unknown</data>
+      <data key="d5">cytoskeleton</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cell membrane</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9C005">
+      <data key="d1">DPY30_HUMAN</data>
+      <data key="d2">DPY30</data>
+      <data key="d3">chromatin silencing at telomere</data>
+      <data key="d4">identical protein binding</data>
+      <data key="d5">chromosome, telomeric region</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9P2A4">
+      <data key="d1">ABI3_HUMAN</data>
+      <data key="d2">ABI3</data>
+      <data key="d3">defense response to tumor cell</data>
+      <data key="d4">actin filament binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P50552">
+      <data key="d1">VASP_HUMAN</data>
+      <data key="d2">VASP</data>
+      <data key="d3">actin cytoskeleton organization</data>
+      <data key="d4">actin binding</data>
+      <data key="d5">actin cytoskeleton</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9UI08">
+      <data key="d1">EVL_HUMAN</data>
+      <data key="d2">EVL</data>
+      <data key="d3">actin filament organization</data>
+      <data key="d4">actin binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P14598">
+      <data key="d1">NCF1_HUMAN</data>
+      <data key="d2">NCF1</data>
+      <data key="d3">antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent</data>
+      <data key="d4">electron transfer activity</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q01130">
+      <data key="d1">SRSF2_HUMAN</data>
+      <data key="d2">SRSF2</data>
+      <data key="d3">mRNA 3'-end processing</data>
+      <data key="d4">RNA binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P11161">
+      <data key="d1">EGR2_HUMAN</data>
+      <data key="d2">EGR2</data>
+      <data key="d3">brain development</data>
+      <data key="d4">chromatin binding</data>
+      <data key="d5">chromatin</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Nucleus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">PATHWAY</data>
+    </node>
+    <node id="P51610">
+      <data key="d1">HCFC1_HUMAN</data>
+      <data key="d2">HCFC1</data>
+      <data key="d3">cell cycle</data>
+      <data key="d4">activating transcription factor binding</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q16548">
+      <data key="d1">B2LA1_HUMAN</data>
+      <data key="d2">BCL2A1</data>
+      <data key="d3">aging</data>
+      <data key="d4">BH domain binding</data>
+      <data key="d5">mitochondrial outer membrane</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q07812">
+      <data key="d1">BAX_HUMAN</data>
+      <data key="d2">BAX</data>
+      <data key="d3">activation of cysteine-type endopeptidase activity involved in apoptotic process</data>
+      <data key="d4">BH3 domain binding</data>
+      <data key="d5">BAK complex</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Mitochondrion outer membrane</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P06126">
+      <data key="d1">CD1A_HUMAN</data>
+      <data key="d2">CD1A</data>
+      <data key="d3">adaptive immune response</data>
+      <data key="d4">endogenous lipid antigen binding</data>
+      <data key="d5">endosome membrane</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cell membrane</data>
+      <data key="d8">TOPO_DOM 17..300</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9NXV2">
+      <data key="d1">KCTD5_HUMAN</data>
+      <data key="d2">KCTD5</data>
+      <data key="d3">proteasome-mediated ubiquitin-dependent protein catabolic process</data>
+      <data key="d4">cullin family protein binding</data>
+      <data key="d5">Cul3-RING ubiquitin ligase complex</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Cytoplasm</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="P62820">
+      <data key="d1">RAB1A_HUMAN</data>
+      <data key="d2">RAB1A</data>
+      <data key="d3">autophagosome assembly</data>
+      <data key="d4">cadherin binding</data>
+      <data key="d5">cytosol</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Golgi apparatus</data>
+      <data key="d8">Unknown</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Q9UL01">
+      <data key="d1">DSE_HUMAN</data>
+      <data key="d2">DSE</data>
+      <data key="d3">chondroitin sulfate biosynthetic process</data>
+      <data key="d4">chondroitin-glucuronate 5-epimerase activity</data>
+      <data key="d5">endoplasmic reticulum</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Endoplasmic reticulum membrane</data>
+      <data key="d8">TOPO_DOM 23..902</data>
+      <data key="d9">PATHWAY</data>
+    </node>
+    <node id="O60488">
+      <data key="d1">ACSL4_HUMAN</data>
+      <data key="d2">ACSL4</data>
+      <data key="d3">dendritic spine development</data>
+      <data key="d4">arachidonate-CoA ligase activity</data>
+      <data key="d5">cytoplasm</data>
+      <data key="d6">Unknown</data>
+      <data key="d7">Mitochondrion outer membrane</data>
+      <data key="d8">TOPO_DOM 29..711</data>
+      <data key="d9">Unknown</data>
+    </node>
+    <node id="Apa">
+      <data key="d1">Mtb</data>
+      <data key="d2">Mtb</data>
+      <data key="d3">Mtb</data>
+      <data key="d4">Mtb</data>
+      <data key="d5">Mtb</data>
+      <data key="d6">Mtb</data>
+      <data key="d7">Mtb</data>
+      <data key="d8">Mtb</data>
+      <data key="d9">Mtb</data>
+    </node>
+    <node id="LpqR">
+      <data key="d1">Mtb</data>
+      <data key="d2">Mtb</data>
+      <data key="d3">Mtb</data>
+      <data key="d4">Mtb</data>
+      <data key="d5">Mtb</data>
+      <data key="d6">Mtb</data>
+      <data key="d7">Mtb</data>
+      <data key="d8">Mtb</data>
+      <data key="d9">Mtb</data>
+    </node>
+    <node id="Rv1827">
+      <data key="d1">Mtb</data>
+      <data key="d2">Mtb</data>
+      <data key="d3">Mtb</data>
+      <data key="d4">Mtb</data>
+      <data key="d5">Mtb</data>
+      <data key="d6">Mtb</data>
+      <data key="d7">Mtb</data>
+      <data key="d8">Mtb</data>
+      <data key="d9">Mtb</data>
+    </node>
+    <node id="Rv1075C">
+      <data key="d1">Mtb</data>
+      <data key="d2">Mtb</data>
+      <data key="d3">Mtb</data>
+      <data key="d4">Mtb</data>
+      <data key="d5">Mtb</data>
+      <data key="d6">Mtb</data>
+      <data key="d7">Mtb</data>
+      <data key="d8">Mtb</data>
+      <data key="d9">Mtb</data>
+    </node>
+    <node id="Rv1074c">
+      <data key="d1">Mtb</data>
+      <data key="d2">Mtb</data>
+      <data key="d3">Mtb</data>
+      <data key="d4">Mtb</data>
+      <data key="d5">Mtb</data>
+      <data key="d6">Mtb</data>
+      <data key="d7">Mtb</data>
+      <data key="d8">Mtb</data>
+      <data key="d9">Mtb</data>
+    </node>
+    <node id="Rv3033">
+      <data key="d1">Mtb</data>
+      <data key="d2">Mtb</data>
+      <data key="d3">Mtb</data>
+      <data key="d4">Mtb</data>
+      <data key="d5">Mtb</data>
+      <data key="d6">Mtb</data>
+      <data key="d7">Mtb</data>
+      <data key="d8">Mtb</data>
+      <data key="d9">Mtb</data>
+    </node>
+    <node id="LpqN">
+      <data key="d1">Mtb</data>
+      <data key="d2">Mtb</data>
+      <data key="d3">Mtb</data>
+      <data key="d4">Mtb</data>
+      <data key="d5">Mtb</data>
+      <data key="d6">Mtb</data>
+      <data key="d7">Mtb</data>
+      <data key="d8">Mtb</data>
+      <data key="d9">Mtb</data>
+    </node>
+    <node id="TB8.4">
+      <data key="d1">Mtb</data>
+      <data key="d2">Mtb</data>
+      <data key="d3">Mtb</data>
+      <data key="d4">Mtb</data>
+      <data key="d5">Mtb</data>
+      <data key="d6">Mtb</data>
+      <data key="d7">Mtb</data>
+      <data key="d8">Mtb</data>
+      <data key="d9">Mtb</data>
+    </node>
+    <node id="Rv3668c">
+      <data key="d1">Mtb</data>
+      <data key="d2">Mtb</data>
+      <data key="d3">Mtb</data>
+      <data key="d4">Mtb</data>
+      <data key="d5">Mtb</data>
+      <data key="d6">Mtb</data>
+      <data key="d7">Mtb</data>
+      <data key="d8">Mtb</data>
+      <data key="d9">Mtb</data>
+    </node>
+    <node id="EspR">
+      <data key="d1">Mtb</data>
+      <data key="d2">Mtb</data>
+      <data key="d3">Mtb</data>
+      <data key="d4">Mtb</data>
+      <data key="d5">Mtb</data>
+      <data key="d6">Mtb</data>
+      <data key="d7">Mtb</data>
+      <data key="d8">Mtb</data>
+      <data key="d9">Mtb</data>
+    </node>
+    <node id="ESAT6">
+      <data key="d1">Mtb</data>
+      <data key="d2">Mtb</data>
+      <data key="d3">Mtb</data>
+      <data key="d4">Mtb</data>
+      <data key="d5">Mtb</data>
+      <data key="d6">Mtb</data>
+      <data key="d7">Mtb</data>
+      <data key="d8">Mtb</data>
+      <data key="d9">Mtb</data>
+    </node>
+    <node id="PE25">
+      <data key="d1">Mtb</data>
+      <data key="d2">Mtb</data>
+      <data key="d3">Mtb</data>
+      <data key="d4">Mtb</data>
+      <data key="d5">Mtb</data>
+      <data key="d6">Mtb</data>
+      <data key="d7">Mtb</data>
+      <data key="d8">Mtb</data>
+      <data key="d9">Mtb</data>
+    </node>
+    <edge source="O43586" target="Q15287" />
+    <edge source="O43586" target="Q14005" />
+    <edge source="O43586" target="P16403" />
+    <edge source="O43586" target="Q9NP66" />
+    <edge source="Q15287" target="Rv1827" />
+    <edge source="Q14005" target="Rv3033" />
+    <edge source="P16403" target="O95466" />
+    <edge source="Q9NP66" target="Q96LT7" />
+    <edge source="Q9NP66" target="O95466" />
+    <edge source="O95466" target="Q9BYV2" />
+    <edge source="O95466" target="P12956" />
+    <edge source="O95466" target="P10412" />
+    <edge source="O95466" target="O75400" />
+    <edge source="O95466" target="Q03463" />
+    <edge source="O95466" target="LpqN" />
+    <edge source="Q96LT7" target="P62820" />
+    <edge source="Q02930" target="Q99750" />
+    <edge source="Q02930" target="P49639" />
+    <edge source="Q02930" target="Q15654" />
+    <edge source="Q02930" target="Q93062" />
+    <edge source="Q99750" target="Q8NEC5" />
+    <edge source="Q99750" target="Q7L591" />
+    <edge source="P49639" target="Q8NEC5" />
+    <edge source="P49639" target="Q7L591" />
+    <edge source="Q15654" target="P08631" />
+    <edge source="Q15654" target="Q8NEC5" />
+    <edge source="Q15654" target="P04440" />
+    <edge source="Q15654" target="Apa" />
+    <edge source="Q93062" target="P08631" />
+    <edge source="Q93062" target="Q7L591" />
+    <edge source="Q8NEC5" target="Q14847" />
+    <edge source="Q8NEC5" target="Q63HR2" />
+    <edge source="Q7L591" target="O76024" />
+    <edge source="Q7L591" target="Q63HR2" />
+    <edge source="Q7L591" target="P40763" />
+    <edge source="Q7L591" target="Q8TB24" />
+    <edge source="Q7L591" target="P10412" />
+    <edge source="Q7L591" target="O43741" />
+    <edge source="Q7L591" target="Q13077" />
+    <edge source="Q7L591" target="Q92529" />
+    <edge source="Q7L591" target="Q9NQ94" />
+    <edge source="Q7L591" target="O43447" />
+    <edge source="Q7L591" target="O60333" />
+    <edge source="Q7L591" target="O60496" />
+    <edge source="Q7L591" target="O75603" />
+    <edge source="Q7L591" target="P04792" />
+    <edge source="Q7L591" target="P10606" />
+    <edge source="Q7L591" target="P46108" />
+    <edge source="Q7L591" target="Q5VZ18" />
+    <edge source="Q7L591" target="Q86UW9" />
+    <edge source="Q7L591" target="Q8NEU8" />
+    <edge source="Q7L591" target="Q8TEW6" />
+    <edge source="Q7L591" target="Q92625" />
+    <edge source="Q7L591" target="Q99704" />
+    <edge source="Q7L591" target="Q99932" />
+    <edge source="Q7L591" target="Q9HB20" />
+    <edge source="Q7L591" target="Q9P104" />
+    <edge source="Q7L591" target="Q9UKG1" />
+    <edge source="Q7L591" target="Q9Y3C5" />
+    <edge source="Q7L591" target="P07949" />
+    <edge source="Q7L591" target="Apa" />
+    <edge source="P08631" target="P22681" />
+    <edge source="P08631" target="P59046" />
+    <edge source="P08631" target="O76024" />
+    <edge source="P22681" target="P43405" />
+    <edge source="P22681" target="Q06187" />
+    <edge source="P22681" target="P07333" />
+    <edge source="P22681" target="P07948" />
+    <edge source="P22681" target="P15498" />
+    <edge source="P22681" target="LpqN" />
+    <edge source="P59046" target="Q16543" />
+    <edge source="P43405" target="P40763" />
+    <edge source="P43405" target="P15498" />
+    <edge source="P15498" target="P12956" />
+    <edge source="Q16543" target="Q9H257" />
+    <edge source="Q16543" target="Q96QH2" />
+    <edge source="Q16543" target="LpqR" />
+    <edge source="Q14847" target="Rv3033" />
+    <edge source="Q9H257" target="Q9BYV2" />
+    <edge source="Q9BYV2" target="Q9UIA0" />
+    <edge source="Q96QH2" target="P10412" />
+    <edge source="Q9UIA0" target="Q15154" />
+    <edge source="P40763" target="Q9Y616" />
+    <edge source="P40763" target="O60496" />
+    <edge source="Q9Y616" target="Q15233" />
+    <edge source="O60496" target="P46108" />
+    <edge source="O60496" target="Q9UKG1" />
+    <edge source="O60496" target="P07949" />
+    <edge source="P12956" target="P41220" />
+    <edge source="P12956" target="P51828" />
+    <edge source="P12956" target="Q15080" />
+    <edge source="P12956" target="P09086" />
+    <edge source="P12956" target="EspR" />
+    <edge source="P41220" target="Q8TB24" />
+    <edge source="Q8TB24" target="P20339" />
+    <edge source="Q8TB24" target="P46108" />
+    <edge source="Q15080" target="P14598" />
+    <edge source="P20339" target="TB8.4" />
+    <edge source="Q15154" target="Rv1827" />
+    <edge source="Q99704" target="P07949" />
+    <edge source="Q15233" target="Apa" />
+    <edge source="Q7Z5R6" target="Q9C005" />
+    <edge source="Q9C005" target="Rv1075C" />
+    <edge source="Q9C005" target="Rv1074c" />
+    <edge source="Q9P2A4" target="P50552" />
+    <edge source="Q9P2A4" target="Q9UI08" />
+    <edge source="P50552" target="Apa" />
+    <edge source="Q9UI08" target="Apa" />
+    <edge source="P14598" target="Q01130" />
+    <edge source="Q01130" target="Rv1827" />
+    <edge source="P11161" target="P51610" />
+    <edge source="P51610" target="Rv3668c" />
+    <edge source="Q16548" target="Q07812" />
+    <edge source="Q07812" target="PE25" />
+    <edge source="P06126" target="Q9NXV2" />
+    <edge source="Q9NXV2" target="LpqN" />
+    <edge source="P62820" target="ESAT6" />
+    <edge source="Q9UL01" target="O60488" />
+    <edge source="O60488" target="PE25" />
+    <data key="d0">Macrophage_diseased_2nd_degree_subgraph</data>
+  </graph>
+</graphml>
