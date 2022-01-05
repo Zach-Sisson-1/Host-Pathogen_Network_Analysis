@@ -12,6 +12,11 @@ Because the drugs we regularly use to treat Tuberculosis infections have been in
 
 # **Part 1 - Constructing The Protein Networks**
 First, the healthy and diseased macrophage protein-protein interaction networks must be constructd. The notebook titled **Network_Construction** under **Notebooks** provides this workflow.
+
+First, we first needed to prepare the data to construct the networks. From the APID database [http://cicblade.dep.usal.es:8080/APID/init.action], we got a list of all the binary protein interactions in a human cell and combined that with information from Uniport database [https://www.uniprot.org/uniprot/?query=proteome:UP000005640], that has specific protein infomation like subcellular location and function. Because the Tuberculosis bacteria infects macrophages, we filtered this list to only include those proteins expressed in macrophages using the Protein Atlas database [https://www.proteinatlas.org/humanproteome/single+cell+type/blood+%26+immune+cells#macrophages]. This gave us the list of all the Protein-Protein Interactions in macrophage cells. 
+
+Using a paper from *Molecular Cell*, we got the Tuberculosis proteins that interact with these macrophage proteins. We visualized both the healthy protein and the diseased protein networks. 
+
 # **Part 2 - Whole Network Analysis**
 Once the healthy and diseased networks were constructed, we began by comparing network features between the healthy and diseased networks, looking primarily at measures of centrality and community composition. The code for this analysis can be found in **Whole_Network_Analysis** under **Notebooks**
 # **Part 3 - Subnetwork Analysis**
