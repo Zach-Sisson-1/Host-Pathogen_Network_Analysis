@@ -1,11 +1,10 @@
 # **A Network Analysis of Host-Pathogen Interactions**
 ### Authored by Andrew Powers, Zach Sisson, and Vandana Reddy
 
-### Workflow
+### Workflow:
 Part 1: Notebooks > Network_Construction <br />
 Part 2: Notebooks > Whole_Network_Analysis <br />
-Part 3: Notebooks > Subnetwork_Construction <br />
-        Notebooks > Subnetwork_Analysis <br />
+Part 3: Notebooks > Subnetwork_Construction, Notebooks > Subnetwork_Analysis <br />
 
 
 ### Mini Abstract Here
