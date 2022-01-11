@@ -7,8 +7,6 @@ Part 2: Notebooks > Whole_Network_Analysis <br />
 Part 3: Notebooks > Subnetwork_Construction, Notebooks > Subnetwork_Analysis <br />
 
 
-### Mini Abstract Here
-
 # Introduction:
 While not a large problem, in the United States, Tuberculosis is still incredibly prevalent in other areas of the world. Tuberculosis is caused by the bacteria, *Mycobacteria tuberculosis*. A total of 1.5 million people died from Tuberculosis in 2020 and worldwide, Tuberculosis is the 13th leading cause of death and the second leading infectious killer after the COVID-19 virus. 
 
