@@ -3,6 +3,7 @@
 
 The results of our network analysis revealed four key interactions between Mycobacterium Tuburculosis proteins and a central human macrophage protein. Those interactions include:
 
+**Mtb - Human**
 Apa - DOK3 (visualized above)
 
 LpqN - CBL
