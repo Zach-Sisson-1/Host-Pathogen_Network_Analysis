@@ -1,4 +1,4 @@
-# Apa to DOK3 Interaction
+# Protein Interactions of Interest
 ![](Apa_to_DOK3.gif)
 
 The results of our network analysis revealed four key interactions between Mycobacterium Tuburculosis proteins and a central human macrophage protein. Those interactions include:
