@@ -13,6 +13,9 @@ The results of our network analysis revealed four key interactions between Mycob
 
 4) EspR - XRCC6
 
-This directory contains pdb and pse files for pymol visualizations of alphafold interaction models as well as the HTML files to view the interactions, predicted by alphafold, in a web browser. 
+This directory contains pdb and pse files for pymol visualizations of alphafold interaction models. Alternatively, web-based views of these predicted alphafold models are linked below:
 
-test = file:///home/zach/Downloads/EspR_XRCC6.html
+[Apa - DOK3]
+[LpqN - CBL]
+[LpqN - FMNL1]
+[EspR - XRCC6](file:///home/zach/Downloads/EspR_XRCC6.html)
