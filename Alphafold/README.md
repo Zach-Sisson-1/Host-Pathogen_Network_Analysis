@@ -5,12 +5,12 @@ The results of our network analysis revealed four key interactions between Mycob
 
 **Mtb - Human**
 
-Apa - DOK3 (visualized above)
+1) Apa - DOK3 (visualized above)
 
-LpqN - CBL
+2) LpqN - CBL
 
-LpqN - FMNL1
+3) LpqN - FMNL1
 
-EspR - XRCC6
+4) EspR - XRCC6
 
 This directory contains pdb and pse files for pymol visualizations of alphafold interaction models as well as the HTML files to view the interactions, predicted by alphafold, in a web browser. 
