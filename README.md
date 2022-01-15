@@ -19,7 +19,7 @@ The project was broken into four main parts with the following file structure:
 Part 1: Notebooks > Network_Construction <br />
 Part 2: Notebooks > Whole_Network_Analysis <br />
 Part 3: Notebooks > Subnetwork_Construction, Notebooks > Subnetwork_Analysis <br />
-Part 4: Edge_Prediction <br />
+Part 4: LinkPrediction <br />
 
 # **Part 1 - Constructing The Protein Networks**
 First, the healthy and diseased macrophage protein-protein interaction networks must be constructd. The notebook titled **Network_Construction** under **Notebooks** provides this workflow.
