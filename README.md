@@ -2,7 +2,7 @@
 ### Authored by Andrew Powers, Zach Sisson, and Vandana Reddy
 
 # Introduction and Goals:
-While not a large problem, in the United States, Tuberculosis is still incredibly prevalent in other areas of the world. Tuberculosis is caused by the bacteria, *Mycobacteria tuberculosis* (Mtb). A total of 1.5 million people died from Tuberculosis in 2020 and worldwide, Tuberculosis is the 13th leading cause of death and the second leading infectious killer after the COVID-19 virus. 
+While not a large problem in the United States, Tuberculosis is still incredibly prevalent in other areas of the world. Tuberculosis is caused by the bacteria, *Mycobacteria tuberculosis* (Mtb). A total of 1.5 million people died from Tuberculosis in 2020 and worldwide, Tuberculosis is the 13th leading cause of death and the second leading infectious killer after the COVID-19 virus. 
 
 Tuberculosis is spread through the air and infection begins when the bacteria enters the hosts’ lungs and infects the alveolar air sacs, specifically the alveolar macrophages. Macrophages are special immune cells that are tasked with the detection, destruction, and clearing of bacteria and other infections. While the macrophages try to clear the bacteria, it can actually survive and reproduce in the macrophage, killing the immune cell and spreading to nearby epithelial and endothelial cells. 
 
