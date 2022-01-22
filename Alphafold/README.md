@@ -17,10 +17,10 @@ This directory contains .pdb and .pse files for pymol visualizations of alphafol
 
 (under construction)
 
-![Apa -DOK3](https://michelanglo.sgc.ox.ac.uk/data/5f506069-6f3c-48db-ad79-c25619c00f6f)
+[Apa -DOK3](https://michelanglo.sgc.ox.ac.uk/data/5f506069-6f3c-48db-ad79-c25619c00f6f)
 
 [LpqN - CBL]
 
 [LpqN - FMNL1]
 
-![EspR - XRCC6]()
+[EspR - XRCC6]()
