@@ -23,4 +23,4 @@ This directory contains .pdb and .pse files for pymol visualizations of alphafol
 
 [LpqN - FMNL1]
 
-[EspR - XRCC6](https://github.com/Zach-Sisson-1/Host-Pathogen_Network_Analysis/blob/main/Alphafold/HTMLs/LpqN_CBL.html)
+[EspR - XRCC6](../HTMLs/LpqN_CBL.html)
