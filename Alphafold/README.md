@@ -17,7 +17,7 @@ This directory contains .pdb and .pse files for pymol visualizations of alphafol
 
 (under construction)
 
-[Apa - DOK3]
+![Apa - DOK3](https://github.com/Zach-Sisson-1/Host-Pathogen_Network_Analysis/blob/main/Alphafold/HTMLs/Apa_DOK3.html)
 
 [LpqN - CBL]
 
