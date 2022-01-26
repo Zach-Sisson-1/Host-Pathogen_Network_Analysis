@@ -16,7 +16,7 @@ The results of our network analysis revealed four key interactions between Mycob
 This directory contains .pdb and .pse files for pymol visualizations of alphafold interaction models. Alternatively, web-based views of these predicted alphafold models are linked below:
 (under construction)
 
-![Apa -DOK3]https://michelanglo.sgc.ox.ac.uk/data/5f506069-6f3c-48db-ad79-c25619c00f6f)
+[Apa -DOK3](https://michelanglo.sgc.ox.ac.uk/data/5f506069-6f3c-48db-ad79-c25619c00f6f)
 
 [LpqN - CBL]#h ttps://michelanglo.sgc.ox.ac.uk/data/4abb1cbe-09c3-4744-a45c-9df1f03c36d8)
 
